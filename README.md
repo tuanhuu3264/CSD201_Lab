@@ -13,10 +13,10 @@
 1. Graph Data Structure
 2. 2. Trees Data Structure
 ## Lab-Exercise Of Data Structure 
-**Linked List: [Link Here](https://github.com/tuanhuu3264/CSD201_Lab/tree/35a2539981fc4c5c3289e73432d17ed655cb1cfa/CSD_LinkList_4Lab)**
-**Stack And Queue: [Link Here](https://github.com/tuanhuu3264/CSD201_Lab/tree/35a2539981fc4c5c3289e73432d17ed655cb1cfa/CSD_Stacks%26Queues_6Lab)**
-**Recursion: [Link Here](https://github.com/tuanhuu3264/CSD201_Lab/tree/35a2539981fc4c5c3289e73432d17ed655cb1cfa/Recursion_4Lab)**
-**Sorting Lab 1: [Link Here](https://github.com/tuanhuu3264/CSD201_Lab/tree/35a2539981fc4c5c3289e73432d17ed655cb1cfa/Sorting%20-%20Lab1%20-%20CSD201)**
-**Sorting Lab 2: [Link Here](https://github.com/tuanhuu3264/CSD201_Lab/tree/35a2539981fc4c5c3289e73432d17ed655cb1cfa/Sorting%20-%20Lab2%20-%20CSD201)**
-**Binary Tree: [Link Here](https://github.com/tuanhuu3264/CSD201_Lab/tree/35a2539981fc4c5c3289e73432d17ed655cb1cfa/BinaryTree_3Lab)**
-**Graph: [Link Here](https://github.com/tuanhuu3264/CSD201_Lab/tree/35a2539981fc4c5c3289e73432d17ed655cb1cfa/CSD_GRAPH_3LAB(1))**
+- **Linked List: [Link Here](https://github.com/tuanhuu3264/CSD201_Lab/tree/35a2539981fc4c5c3289e73432d17ed655cb1cfa/CSD_LinkList_4Lab)**
+- **Stack And Queue: [Link Here](https://github.com/tuanhuu3264/CSD201_Lab/tree/35a2539981fc4c5c3289e73432d17ed655cb1cfa/CSD_Stacks%26Queues_6Lab)**
+- **Recursion: [Link Here](https://github.com/tuanhuu3264/CSD201_Lab/tree/35a2539981fc4c5c3289e73432d17ed655cb1cfa/Recursion_4Lab)**
+- **Sorting Lab 1: [Link Here](https://github.com/tuanhuu3264/CSD201_Lab/tree/35a2539981fc4c5c3289e73432d17ed655cb1cfa/Sorting%20-%20Lab1%20-%20CSD201)**
+- **Sorting Lab 2: [Link Here](https://github.com/tuanhuu3264/CSD201_Lab/tree/35a2539981fc4c5c3289e73432d17ed655cb1cfa/Sorting%20-%20Lab2%20-%20CSD201)**
+- **Binary Tree: [Link Here](https://github.com/tuanhuu3264/CSD201_Lab/tree/35a2539981fc4c5c3289e73432d17ed655cb1cfa/BinaryTree_3Lab)**
+- **Graph: [Link Here](https://github.com/tuanhuu3264/CSD201_Lab/tree/35a2539981fc4c5c3289e73432d17ed655cb1cfa/CSD_GRAPH_3LAB(1))**
