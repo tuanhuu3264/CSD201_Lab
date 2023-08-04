@@ -11,7 +11,7 @@
    4. Linked List Data Structure
 - **Non-Linear Data Structures: elements in non-linear data structures are not in any sequence. Instead they are arranged in a hierarchical manner where one element will be connected to one or more elements.**
 1. Graph Data Structure
-2. 2. Trees Data Structure
+2. Trees Data Structure
 ## Lab-Exercise Of Data Structure 
 - Linked List: [Link Here](https://github.com/tuanhuu3264/CSD201_Lab/tree/35a2539981fc4c5c3289e73432d17ed655cb1cfa/CSD_LinkList_4Lab)
 - Stack And Queue: [Link Here](https://github.com/tuanhuu3264/CSD201_Lab/tree/35a2539981fc4c5c3289e73432d17ed655cb1cfa/CSD_Stacks%26Queues_6Lab)
