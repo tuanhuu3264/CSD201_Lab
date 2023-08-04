@@ -4,12 +4,12 @@
 - Data Structures: Data structure is a storage that is used to store and organize data. It is a way of arranging data on a computer so that it can be accessed and updated efficiently.
 
 ## Types of Data Structure
- **Linear Data Structures: the elements are arranged in sequence one after the other. Since elements are arranged in particular order, they are easy to implement.**
+- **Linear Data Structures: the elements are arranged in sequence one after the other. Since elements are arranged in particular order, they are easy to implement.**
    1. Array Data Structure
    2. Stack Data Structure
    3. Queue Data Structure
    4. Linked List Data Structure
-**Non-Linear Data Structures: elements in non-linear data structures are not in any sequence. Instead they are arranged in a hierarchical manner where one element will be connected to one or more elements.**
+- **Non-Linear Data Structures: elements in non-linear data structures are not in any sequence. Instead they are arranged in a hierarchical manner where one element will be connected to one or more elements.**
 1. Graph Data Structure
 2. 2. Trees Data Structure
 ## Lab-Exercise Of Data Structure 
